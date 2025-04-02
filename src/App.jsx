@@ -154,7 +154,7 @@ function App() {
                             </Typography>
 
                             <Typography variant="body1" sx={{ mb: 3, color: 'primary.main', textAlign: 'center' }}>
-                                Molimo vas da nas obavestite da li ćete prisustvovati proslavi!
+                                Molim te da mi potvrdiš svoje prisustvo!
                             </Typography>
 
                             <TextField
