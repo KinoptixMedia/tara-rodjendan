@@ -35,7 +35,7 @@ const VenueInfo = () => {
                 Restoran Pele
               </Typography>
               <Typography variant="body1" sx={{ mb: 2 }}>
-                Pozivam te da mi se pridružiš u proslavi mog 18. rođendana, koji će biti održan u resoranu Pele.
+                Pozivam te da mi se pridružiš u proslavi mog 18. rođendana, koji će biti održan u restoranu Pele.
               </Typography>
               <Typography variant="body1" sx={{ mb: 1 }}>
                 <strong>Adresa:</strong>Brodarska 1, Beograd
